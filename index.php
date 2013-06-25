@@ -1,8 +1,8 @@
 <html>
   <head>
-     <title>Fuck you world</title>
+     <title>Hi universe</title>
   </head>
   <body>
-     <?php echo '<p>Fuck you twice World</p>'; ?>
+     <?php echo '<p>Seem's like we've made id thanks to your videos :P</p>'; ?>
   </body>
 </html>
