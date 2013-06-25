@@ -1,8 +1,8 @@
 <html>
   <head>
-     <title>Hello World</title>
+     <title>Fuck you world</title>
   </head>
   <body>
-     <?php echo '<p>Fuck you World</p>'; ?>
+     <?php echo '<p>Fuck you twice World</p>'; ?>
   </body>
 </html>
